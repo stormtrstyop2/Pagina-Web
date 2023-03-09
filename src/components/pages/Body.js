@@ -5,6 +5,7 @@ function Body() {
       <div className="pt-4">
         <button
           className="bg-blue-400 btn btn-blue btn-blue:hover"
+          a
           href="carta.js"
         >
           Botón

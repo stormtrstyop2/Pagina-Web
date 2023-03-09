@@ -1,19 +1,11 @@
-function Cards({ photo }) {
+function Cards({ photo, tittle, desciption }) {
   return (
     <div className="card">
       <div className=" rounded overflow-hidden shadow-lg">
         <img className="w-auto" src={photo} alt="" />
         <div className="px-6 py-4">
-          <div className="font-bold text-xl mb-2">
-            Ing. En Sistemas Computacionales
-          </div>
-          <p className="text-gray-700 text-base">
-            Formar profesionistas de calidad con capacidad analítica, critica,
-            creativa y de liderazgo, que aporten soluciones computacionales
-            tecnológicas, innovadoras con un alto nivel de sensibilidad social,
-            y valores éticos aplicados a las tecnologías de información y de
-            comunicación.
-          </p>
+          <div className="font-bold text-xl mb-2">{tittle}</div>
+          <p className="text-gray-700 text-base">{desciption}</p>
         </div>
         <div className="px-6 py-4">
           <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2">
