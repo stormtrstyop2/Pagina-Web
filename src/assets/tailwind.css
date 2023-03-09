@@ -2,6 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
-.card {
-  @apply rounded overflow-hidden shadow-lg;
+.btn {
+  @apply py-2 px-4 rounded;
+}
+
+.btn-blue {
+  @apply bg-blue-500 text-white;
+}
+
+.btn-blue:hover {
+  @apply bg-blue-700;
 }
