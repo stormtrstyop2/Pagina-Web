@@ -1,4 +1,4 @@
-function Cards({ photo, tittle, desciption }) {
+function Cards({ photo, tittle, desciption, label1, label2, label3 }) {
   return (
     <div className="card">
       <div className=" rounded overflow-hidden shadow-lg">
@@ -9,13 +9,13 @@ function Cards({ photo, tittle, desciption }) {
         </div>
         <div className="px-6 py-4">
           <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2">
-            #Dev
+            {label1}
           </span>
           <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2">
-            #intuitivo
+            {label2}
           </span>
           <span className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700">
-            #Pensamiento lógico
+            {label3}
           </span>
         </div>
       </div>

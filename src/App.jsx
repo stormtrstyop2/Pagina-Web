@@ -2,6 +2,7 @@ import React from "react";
 import Cards from "./components/pages/Cards";
 import Body from "./components/pages/Body";
 import Data from "./servicios/data.json";
+
 function App() {
   console.log(Data);
 
@@ -29,6 +30,9 @@ function App() {
             y valores éticos aplicados a las tecnologías de información y de
             comunicación."
               tittle="Ing. En Sistemas Computacionales"
+              label1="#Dev"
+              label2="#S.O"
+              label3="#Pensamiento lógico"
             />
           </div>
           <div className="w-full sm:w-1/2 md:w-1/3 px-2 ">
@@ -40,6 +44,9 @@ function App() {
             conocimientos que aseguren los servicios ecosistémicos y el
             bienestar de la población con un sentido de equidad y justicia."
               tittle="Ing. Ambiental"
+              label1="#Ética ambiental"
+              label2="#Recursos naturales"
+              label3="#Reciclaje"
             />
           </div>
           <div className="w-full sm:w-1/2 md:w-1/3 px-2 ">
@@ -51,6 +58,9 @@ function App() {
           atractiva relación costo-beneficio, buscando un impacto negativo
           mínimo al medio ambiente."
               tittle="Ing. Bioquimica"
+              label1="#Genética"
+              label2="#Alcalinos"
+              label3="#Bioquímica"
             />
           </div>
           <div className="w-full sm:w-1/2 md:w-1/3 px-2 ">
@@ -62,6 +72,9 @@ function App() {
             infraestructura pública y privada que contribuya con pertinencia al
             desarrollo sustentable de la región."
               tittle="Ing. Civil"
+              label1=""
+              label2=""
+              label3=""
             />
           </div>
           <div className="w-full sm:w-1/2 md:w-1/3 px-2 ">
@@ -74,6 +87,9 @@ function App() {
             innovación de tecnologías y difusión de conocimientos en los campos
             de la ingeniería electromecánica."
               tittle="Ing. Electromecanica"
+              label1=""
+              label2=""
+              label3=""
             />
           </div>
           <div className="w-full sm:w-1/2 md:w-1/3 px-2 ">
@@ -84,6 +100,9 @@ function App() {
             contribuyan al desarrollo de la calidad y productividad con un
             enfoque sustentable del sector industrial."
               tittle="Ing. Industrial"
+              label1=""
+              label2=""
+              label3=""
             />
           </div>
           <div className="w-full sm:w-1/2 md:w-1/3 px-2 ">
@@ -95,6 +114,9 @@ function App() {
             soluciones para los organismos públicos, privados y sociales; todo
             esto dentro de un marco de valores éticos y humanísticos."
               tittle="Lic. En Administración"
+              label1=""
+              label2=""
+              label3=""
             />
           </div>
         </div>
