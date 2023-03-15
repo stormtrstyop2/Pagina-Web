@@ -340,43 +340,43 @@
       "items": [
         {
           "item": "Ciencias y salud",
-          "imagen": null
+          "imagen": "https://placeimg.com/640/480/any"
         },
         {
           "item": "Medio Ambiente",
-          "imagen": null
+          "imagen": "https://placeimg.com/640/480/any"
         },
         {
           "item": "Biología",
-          "imagen": null
+          "imagen": "https://placeimg.com/640/480/any"
         },
         {
           "item": "Ciencias del Mar",
-          "imagen": null
+          "imagen": "https://placeimg.com/640/480/any"
         },
         {
           "item": "Geología",
-          "imagen": null
+          "imagen": "https://placeimg.com/640/480/any"
         },
         {
           "item": "Física",
-          "imagen": null
+          "imagen": "https://placeimg.com/640/480/any"
         },
         {
           "item": "Matemáticas",
-          "imagen": null
+          "imagen": "https://placeimg.com/640/480/any"
         },
         {
           "item": "Medicina",
-          "imagen": null
+          "imagen": "https://placeimg.com/640/480/any"
         },
         {
           "item": "Enfermería",
-          "imagen": null
+          "imagen": "https://placeimg.com/640/480/any"
         },
         {
           "item": "Fisioteriapia",
-          "imagen": null
+          "imagen": "https://placeimg.com/640/480/any"
         }
       ]
     },
@@ -386,11 +386,11 @@
       "items": [
         {
           "item": "Biotecnología",
-          "imagen": null
+          "imagen": "https://placeimg.com/640/480/any"
         },
         {
           "item": "Química",
-          "imagen": null
+          "imagen": "https://placeimg.com/640/480/any"
         }
       ]
     },
@@ -400,15 +400,15 @@
       "items": [
         {
           "item": "Ciencias sociales",
-          "imagen": null
+          "imagen": "https://placeimg.com/640/480/any"
         },
         {
           "item": "Humanidades",
-          "imagen": null
+          "imagen": "https://placeimg.com/640/480/any"
         },
         {
           "item": "Fisiologías",
-          "imagen": null
+          "imagen": "https://placeimg.com/640/480/any"
         }
       ]
     },
@@ -418,23 +418,23 @@
       "items": [
         {
           "item": "Bellas artes",
-          "imagen": null
+          "imagen": "https://placeimg.com/640/480/any"
         },
         {
           "item": "Diseño",
-          "imagen": null
+          "imagen": "https://placeimg.com/640/480/any"
         },
         {
           "item": "Fotografía",
-          "imagen": null
+          "imagen": "https://placeimg.com/640/480/any"
         },
         {
           "item": "Pintura",
-          "imagen": null
+          "imagen": "https://placeimg.com/640/480/any"
         },
         {
           "item": "Escultura",
-          "imagen": null
+          "imagen": "https://placeimg.com/640/480/any"
         }
       ]
     }

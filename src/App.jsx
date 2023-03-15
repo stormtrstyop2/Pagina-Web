@@ -1,17 +1,17 @@
 import React from "react";
 import SwitchTheme from "./components/SwitchTheme";
-import Body from "./pages/Home";
+import Rutas from "./Rutas";
 import Theme from "./providers/Theme";
 
 function App() {
   return (
     <Theme>
-      <div className="">
+      <div className="sm:w-1/2 m-auto"> 
+      <SwitchTheme/>
+      <Rutas/>
+      </div>
         {/* cuerpo "texto" */}
-        <SwitchTheme></SwitchTheme>
-        <div className="text-center font-medium text-2xl container mx-auto mt-5">
-          <Body />
-        </div>
+        
         {/* cartas */}
         {/*<div className="container mx-auto mt-5 pt-4">
         <div className="flex -mx-2 flex-wrap">
@@ -115,7 +115,6 @@ function App() {
           </div>
         </div>
       </div>*/}
-      </div>
     </Theme>
   );
 }
