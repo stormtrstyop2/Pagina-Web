@@ -16,11 +16,11 @@ const router = createBrowserRouter([
         path: "/results",
         element: <Results/>
     }
-])
+], {basename: "/app-vocacion/"})
 
 
 const Rutas = () => {
-   return  <RouterProvider router={router}/>
+   return   <RouterProvider  router={router}/>
 }
 
 export default Rutas;

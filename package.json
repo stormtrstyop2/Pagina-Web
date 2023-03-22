@@ -1,6 +1,6 @@
 {
   "name": "paginaweb",
-  "homepage":"https://jlcabrera02.github.io/app-vocacion",
+  "homepage":"https://jlcabrera02.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -22,7 +22,8 @@
     "build:css": "postcss src/assets/tailwind.css -o src/assets/main.css",
     "watch:css": "postcss src/assets/tailwind.css -o src/assets/main.css",
     "predeploy": "npm run build",
-    "desploy":  "gh-pages -d build"
+    "desploy":  "gh-pages -d build",
+    "buildcss": "npx tailwindcss -c ./tailwind.config.js -i ./src/assets/tailwind.css -o ./src/assets/main.css"
   },
   "eslintConfig": {
     "extends": [

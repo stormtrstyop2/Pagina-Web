@@ -14,7 +14,7 @@ const backQuestion = () => setContador(contador-1)
     </div>
   
     </div>  
-    {contador > 0 && <button className="bg-emerald-600 rounded p-2 mt-4 ml-4" onClick={backQuestion}>Regresar</button>}
+    {contador > 0 && <button className="bg-emerald-600 rounded p-2 mt-4 ml-4 text-white hover:bg-emerald-700" onClick={backQuestion}>Regresar</button>}
     </>
   )
 }

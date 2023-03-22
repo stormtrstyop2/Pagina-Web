@@ -1,0 +1,446 @@
+{
+  "subtitle": "Todos tenemos una disposición natural para trabajar mejor en los campos que más nos interesan y en los que creemos ser más eficaces. Esta eficacia produce satisfacción, lo que nos impulsa a progresar más rapidamente en el desarrollo de nuestras habilidades",
+  "reto": "Te planteamos 15 preguntas para que averigues cuáles son tus gustos y, en base a ello, puedas seleccionar qué campos son los que más te interesan.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "¿Qué objeto de tu infancia guardarías con especial cariño a lo largo del tiempo?",
+      "options": [
+        {
+          "word": "A",
+          "content": "El laboratorio de química"
+        },
+        {
+          "word": "B",
+          "content": "El coche teledirigido"
+        },
+        {
+          "word": "C",
+          "content": "Tu primer diario"
+        },
+        {
+          "word": "D",
+          "content": "Tu primer dibujo"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Planeas viajar a un país, ¿qué te gustaría saber?",
+      "options": [
+        {
+          "word": "A",
+          "content": "Si cuenta con alguna reserva natural"
+        },
+        {
+          "word": "B",
+          "content": "Cómo son sus ciudades"
+        },
+        {
+          "word": "C",
+          "content": "Cuáles son sus comidas y costumbres"
+        },
+        {
+          "word": "D",
+          "content": "Qué museos tiene, cómo es su arte, su pintura, y su arquitectura"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Te entretienes más...",
+      "options": [
+        {
+          "word": "A",
+          "content": "Haciendo experimentos"
+        },
+        {
+          "word": "B",
+          "content": "Construyendo una maqueta"
+        },
+        {
+          "word": "C",
+          "content": "Leyendo una buena novela"
+        },
+        {
+          "word": "D",
+          "content": "Pintando o visitando un museo"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Te gustaría tener en casa...",
+      "options": [
+        {
+          "word": "A",
+          "content": "Un espacio para la colección de minerales"
+        },
+        {
+          "word": "B",
+          "content": "Conexion a internet"
+        },
+        {
+          "word": "C",
+          "content": "Un armario lleno de libros"
+        },
+        {
+          "word": "D",
+          "content": "Una litrografía de uno de tus cuadros favoritos"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Si puedes eliges temas de conversación, prefieres hablar de...",
+      "options": [
+        {
+          "word": "A",
+          "content": "Los nuevos avances médicos"
+        },
+        {
+          "word": "B",
+          "content": "El último diseño de coche"
+        },
+        {
+          "word": "C",
+          "content": "Los problemas sociales actuales"
+        },
+        {
+          "word": "D",
+          "content": "El arte o la moda"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "¿Qué regalo te gustaría recibir?",
+      "options": [
+        {
+          "word": "A",
+          "content": "Un telescopio"
+        },
+        {
+          "word": "B",
+          "content": "Una agenda electrónica"
+        },
+        {
+          "word": "C",
+          "content": "Una novela"
+        },
+        {
+          "word": "D",
+          "content": "Un libro de arte"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Si te ofrecen una excursión, preferirías ir a...",
+      "options": [
+        {
+          "word": "A",
+          "content": "El Centro de Investigaciones Oncológicas"
+        },
+        {
+          "word": "B",
+          "content": "Las instalaciones de la NASA"
+        },
+        {
+          "word": "C",
+          "content": "La redacción de un  periódico"
+        },
+        {
+          "word": "D",
+          "content": "El Museo del Prado"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Si tuvieras que elegir una película, preferirías ver",
+      "options": [
+        {
+          "word": "A",
+          "content": "Una verdad incómoda"
+        },
+        {
+          "word": "B",
+          "content": "Los cuatro fantasticos"
+        },
+        {
+          "word": "C",
+          "content": "Babel"
+        },
+        {
+          "word": "D",
+          "content": "María Antonieta"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "¿Qué te apetecería leer?",
+      "options": [
+        {
+          "word": "A",
+          "content": "Cualquier número de Reportero Doc"
+        },
+        {
+          "word": "B",
+          "content": "Cualquier clásico de Julio Verne"
+        },
+        {
+          "word": "C",
+          "content": "Cualquier novela"
+        },
+        {
+          "word": "D",
+          "content": "Un buen libro de arte, diseño, fotografía"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Si te presentases a un premio, te gustaría que fuese gracias a...",
+      "options": [
+        {
+          "word": "A",
+          "content": "Una nueva vacuna"
+        },
+        {
+          "word": "B",
+          "content": "Un invento mecánico"
+        },
+        {
+          "word": "C",
+          "content": "Una obra literaria"
+        },
+        {
+          "word": "D",
+          "content": "Una escultura o una pintura"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "¿Qué trabajo desempeñaría con más gusto?",
+      "options": [
+        {
+          "word": "A",
+          "content": "Investigación en un laboratorio"
+        },
+        {
+          "word": "B",
+          "content": "Diseño de un proyecto de ingeniería"
+        },
+        {
+          "word": "C",
+          "content": "Asistencia a colectivos desfavorecidos"
+        },
+        {
+          "word": "D",
+          "content": "Restaurador en un museo"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Si tuvieras que escribir un artículo en un periódico, éste trataría sobre...",
+      "options": [
+        {
+          "word": "A",
+          "content": "Energía solar"
+        },
+        {
+          "word": "B",
+          "content": "Construcción de aviones"
+        },
+        {
+          "word": "C",
+          "content": "Los conflictos olvidados"
+        },
+        {
+          "word": "D",
+          "content": "Las obras de Dalí"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "question": "¿Con quién compartirías una tarde de charla?",
+      "options": [
+        {
+          "word": "A",
+          "content": "Pedro Duque"
+        },
+        {
+          "word": "B",
+          "content": "Bill Gates"
+        },
+        {
+          "word": "C",
+          "content": "J.K. Rowling"
+        },
+        {
+          "word": "D",
+          "content": "Alejandro Amenábar"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "question": "¿Cuál es tu sección favorita del periódico?",
+      "options": [
+        {
+          "word": "A",
+          "content": "Medio Ambiente"
+        },
+        {
+          "word": "B",
+          "content": "Tecnología"
+        },
+        {
+          "word": "C",
+          "content": "Sociedad"
+        },
+        {
+          "word": "D",
+          "content": "Arte y Cultura"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Si fueras famoso... ¿por qué te gustaría serlo?",
+      "options": [
+        {
+          "word": "A",
+          "content": "Por descubrir la cura del cáncer"
+        },
+        {
+          "word": "B",
+          "content": "Por inventar el teletransportador"
+        },
+        {
+          "word": "C",
+          "content": "Por escribir una novela de éxito internacional"
+        },
+        {
+          "word": "D",
+          "content": "Por ser un pintor de reconocimiento mundial"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "word": "A",
+      "description": "Las carreras que más tienen que ver con tu personalidad son las relacionadas con...",
+      "items": [
+        {
+          "path": "ingieneria-sistemas",
+          "img": "../recursos/sistemas.jpg  ",
+          "title": "Ing. En Sistemas Computacionales",
+          "description": "La ingeniería de sistemas es un campo interdisciplinario de la ingeniería que permite estudiar y comprender la realidad, con el propósito de implementar u optimizar sistemas complejos.",
+          "labels": ["#Dev", "#S.O", "#Pensamiento lógico"]
+        },
+        {
+          "item": "Medio Ambiente",
+          "imagen": "https://placeimg.com/640/480/any"
+        },
+        {
+          "item": "Biología",
+          "imagen": "https://placeimg.com/640/480/any"
+        },
+        {
+          "item": "Ciencias del Mar",
+          "imagen": "https://placeimg.com/640/480/any"
+        },
+        {
+          "item": "Geología",
+          "imagen": "https://placeimg.com/640/480/any"
+        },
+        {
+          "item": "Física",
+          "imagen": "https://placeimg.com/640/480/any"
+        },
+        {
+          "item": "Matemáticas",
+          "imagen": "https://placeimg.com/640/480/any"
+        },
+        {
+          "item": "Medicina",
+          "imagen": "https://placeimg.com/640/480/any"
+        },
+        {
+          "item": "Enfermería",
+          "imagen": "https://placeimg.com/640/480/any"
+        },
+        {
+          "item": "Fisioteriapia",
+          "imagen": "https://placeimg.com/640/480/any"
+        }
+      ]
+    },
+    {
+      "word": "B",
+      "description": "Deberías pensar en realizar alguna ingienería o carrera relacionada con la tecnología como...",
+      "items": [
+        {
+          "item": "Biotecnología",
+          "imagen": "https://placeimg.com/640/480/any"
+        },
+        {
+          "item": "Química",
+          "imagen": "https://placeimg.com/640/480/any"
+        }
+      ]
+    },
+    {
+      "word": "C",
+      "description": "Está claro que te interesas más por materias relacionadas con...",
+      "items": [
+        {
+          "item": "Ciencias sociales",
+          "imagen": "https://placeimg.com/640/480/any"
+        },
+        {
+          "item": "Humanidades",
+          "imagen": "https://placeimg.com/640/480/any"
+        },
+        {
+          "item": "Fisiologías",
+          "imagen": "https://placeimg.com/640/480/any"
+        }
+      ]
+    },
+    {
+      "word": "D",
+      "description": "Deberias plantearte estudios de...",
+      "items": [
+        {
+          "item": "Bellas artes",
+          "imagen": "https://placeimg.com/640/480/any"
+        },
+        {
+          "item": "Diseño",
+          "imagen": "https://placeimg.com/640/480/any"
+        },
+        {
+          "item": "Fotografía",
+          "imagen": "https://placeimg.com/640/480/any"
+        },
+        {
+          "item": "Pintura",
+          "imagen": "https://placeimg.com/640/480/any"
+        },
+        {
+          "item": "Escultura",
+          "imagen": "https://placeimg.com/640/480/any"
+        }
+      ]
+    }
+  ],
+  "Carreras": [{}]
+}
