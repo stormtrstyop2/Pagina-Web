@@ -1,26 +1,28 @@
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import Home from "./pages/Home"
+import Home from "./pages/Home";
 import Questions from "./pages/Questions";
 import Results from "./pages/Results";
 
-const router = createBrowserRouter([
+const router = createBrowserRouter(
+  [
     {
-        path: "/",
-        element: <Home/>
+      path: "/",
+      element: <Home />,
     },
     {
-        path: "/questions",
-        element: <Questions/>
+      path: "/questions",
+      element: <Questions />,
     },
     {
-        path: "/results",
-        element: <Results/>
-    }
-], {basename: "/app-vocacion/"})
-
+      path: "/results",
+      element: <Results />,
+    },
+  ],
+  { basename: "/app-promocion/" }
+);
 
 const Rutas = () => {
-   return   <RouterProvider  router={router}/>
-}
+  return <RouterProvider router={router} />;
+};
 
 export default Rutas;

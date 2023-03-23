@@ -340,42 +340,42 @@
       "items": [
         {
           "path": null,
-          "img": "../recursos/ambiental.jpeg",
+          "img": "./recursos/ambiental.jpeg",
           "title": "Ingieneria Ambiental",
           "description": "El o la Ingeniera en Tecnología Ambiental es un profesional competente que propone alternativas de solución sustentable a los problemas ambientales, a partir del desarrollo y aplicación de tecnologías de remediación, preservación y conservación de suelo, agua y atmósfera.",
           "labels": ["#Ambiente", "#Cuidado"]
         },
         {
           "path": null,
-          "img": "../recursos/cienciasalud.jpg",
+          "img": "./recursos/cienciasalud.jpg",
           "title": "Ciencias y Salud",
           "description": "Son disciplinas que se ven relacionadas con la protección, el fomento y la restauración de la salud y de sus servicios. Además, se pueden definir como ciencias aplicadas que abordan el uso de conocimientos, de tecnologías, de la ingeniería o de las matemáticas en la prestación de asistencia sanitaria a los seres humanos.",
           "labels": ["#Salud", "#Cuidado", "#Calidad de vida", "#Ciencia"]
         },
         {
           "path": null,
-          "img": "../recursos/Biologia.jpg",
+          "img": "./recursos/Biologia.jpg",
           "title": "Biologia",
           "description": "Esta carrera busca resolver problemas relacionados con su entorno utilizando los sistemas biológicos para crear o modificar productos y procesos en las áreas de ambiental, simulación de bioprocesos, ingeniería metabólica, biomateriales, alimentos, biomedicina, entre otro.",
           "labels": ["#Ambiente"]
         },
         {
           "path": null,
-          "img": "../recursos/cienciamar.jpg",
+          "img": "./recursos/cienciamar.jpg",
           "title": "Ciencias del mar",
           "description": "En esta carrera se estudia el fondo marino, analizando los océanos y mares en toda su extensión. Esto implica analizar a sus especies y buscar su protección, rechazando de plano todo tipo de acciones que puedan dañar los ecosistemas marinos",
           "labels": ["#Ambiente", "#Mar", "#Ecosistemas Marinos"]
         },
         {
           "path": null,
-          "img": "../recursos/geologia.jpg",
+          "img": "./recursos/geologia.jpg",
           "title": "Geología",
           "description": "Es la ciencia natural que estudia la composición y estructura tanto interna como superficial del planeta Tierra, y los procesos por los cuales ha ido evolucionando a lo largo del tiempo geológico.",
           "labels": ["#Ambiente", "#Tierra"]
         },
         {
           "path": null,
-          "img": "../recursos/fisica.jpg",
+          "img": "./recursos/fisica.jpg",
           "title": "Física",
           "description": "La física es la ciencia natural que estudia la naturaleza de los componentes y fenómenos más fundamentales del Universo como lo son la energía, la materia, la fuerza, el movimiento, el espacio-tiempo, las magnitudes físicas, las propiedades físicas y las interacciones fundamentales.",
           "labels": [
@@ -387,28 +387,28 @@
         },
         {
           "path": null,
-          "img": "../recursos/matematica.jpg",
+          "img": "./recursos/matematica.jpg",
           "title": "Matematica",
           "description": "Es la ciencia que estudia las operaciones con números, la relación entre las formas y el espacio, las funciones, el azar. Pero, a la vez, pocos sospechan que, además de ocuparse de cuestiones abstractas, está detrás de las principales herramientas de Internet, la seguridad informática, de un buen fixture de fútbol; y que los matemáticos, además, son fundamentales en el desarrollo de áreas como la física, la biología o la ingeniería.",
           "labels": ["#Calculos", "#Ecuaciones"]
         },
         {
           "path": null,
-          "img": "../recursos/medicina.jpg",
+          "img": "./recursos/medicina.jpg",
           "title": "Medicina",
           "description": "La medicina es la ciencia de la salud dedicada a la prevención, diagnóstico, pronóstico y tratamiento de las enfermedades, lesiones y problemas de salud de los seres humanos",
           "labels": ["#Tratamiento de Enfermedades"]
         },
         {
           "path": null,
-          "img": "../recursos/enfermeria.jpg",
+          "img": "./recursos/enfermeria.jpg",
           "title": "Enfermeria",
           "description": "La enfermería es la disciplina que se dedica al cuidado y atención de enfermos y heridos, así como a otras tareas de asistencia sanitarias, clínicas y a la promoción de la salud y prevención de la enfermedad.",
           "labels": ["#Atención", "#Cuidado"]
         },
         {
           "path": null,
-          "img": "../recursos/fisioterapia.jpg",
+          "img": "./recursos/fisioterapia.jpg",
           "title": "Fisioterapia",
           "description": "Es una especialidad médica que tiene por objeto la valoración, diagnóstico, prevención y tratamiento de las discapacidades derivadas de enfermedades y accidentes, utilizando para ellos todos los métodos a su alcance (físicos, medicamentosos, educacionales.) encaminados a facilitar, mantener o devolver el mayor grado de capacidad funcional e independencia posible mejorando así su calidad de vida.",
           "labels": ["#Atención", "#Cuidado", "#Rehabilitación"]
@@ -421,21 +421,21 @@
       "items": [
         {
           "path": null,
-          "img": "../recursos/sistemas.jpg",
+          "img": "./recursos/sistemas.jpg",
           "title": "Ing. En Sistemas Computacionales",
           "description": "La ingeniería de sistemas es un campo interdisciplinario de la ingeniería que permite estudiar y comprender la realidad, con el propósito de implementar u optimizar sistemas complejos.",
           "labels": ["#Dev", "#S.O", "#Pensamiento lógico"]
         },
         {
           "path": null,
-          "img": "../recursos/bioquimica.jpg ",
+          "img": "./recursos/bioquimica.jpg ",
           "title": "Ing. Bioquimica",
           "description": "Un ingeniero bioquímico elabora productos alimenticios, farmacéuticos y biotecnológicos en institutos de investigación científica enfocados en el estudio de nuevos aditivos alimenticios, empaques biodegradables y métodos de conservación naturales.",
           "labels": ["#Calidad", "#Alimentos", "#Ambiente"]
         },
         {
           "path": null,
-          "img": "../recursos/electromecanica.jpg ",
+          "img": "./recursos/electromecanica.jpg ",
           "title": "Ing. Electromecanica",
           "description": "El ingeniero electromecánico proyecta, construye, instala y mantiene sistemas: mecánicos, térmicos y de generación, trasmisión, distribución de energía; componentes e instalaciones para su utilización, mejoramiento y optimización para su aprovechamiento.",
           "labels": ["#Mecanismos", "#Energia"]
@@ -448,21 +448,21 @@
       "items": [
         {
           "path": null,
-          "img": "../recursos/cienciasocial.jpg ",
+          "img": "./recursos/cienciasocial.jpg ",
           "title": "Ciencias Sociales",
           "description": "Son las ciencias cuyo objeto estudio es la interacción social y la influencia del comportamiento humano en el entorno social en el que ocurre.",
           "labels": ["#Social"]
         },
         {
           "path": null,
-          "img": "../recursos/humanidades.jpg ",
+          "img": "./recursos/humanidades.jpg ",
           "title": "Humanidades",
           "description": "Son un conjunto de disciplinas académicas relacionadas con la cultura humana. Existen otras denominaciones genéricas, como el concepto de letra, que se utilizan habitualmente por oposición a las denominadas ciencia",
           "labels": ["#Social", "#Cultura"]
         },
         {
           "path": null,
-          "img": "../recursos/filologia.jpg ",
+          "img": "./recursos/filologia.jpg ",
           "title": "Filologias",
           "description": "Ciencia que estudia los textos escritos y, en ellos, la estructura y la evolución de una lengua y su desarrollo histórico y literario, así como la literatura y la cultura del pueblo o grupo de pueblos que los han producido",
           "labels": ["#Escritura", "#Letras"]
@@ -475,7 +475,7 @@
       "items": [
         {
           "path": null,
-          "img": "../recursos/bellasartes.jpeg ",
+          "img": "./recursos/bellasartes.jpeg ",
           "title": "Bellas Artes",
           "description": "Se relacionan con el mundo de la creatividad por la posibilidad de obtener una formación artística integral capaz de abarcar un amplio mercado laboral. Esta carrera permite estudiar las manifestaciones artísticas mediante reflexiones conceptuales, la historia del arte y la estética.",
           "labels": [
@@ -488,28 +488,28 @@
         },
         {
           "path": null,
-          "img": "../recursos/diseño.jpg ",
+          "img": "./recursos/diseño.jpg ",
           "title": "Diseño",
           "description": "Las carreras de diseño tienen la particularidad de agregarle a la vida de una persona una cuota de imaginación. No solo se necesita tener interés en estudiarlas y en conocerlas, sino que también se necesita una pizca de creatividad, alimentándola con distintas herramientas para poder progresar en ese camino tan desafiante que es el diseño.",
           "labels": ["#Creatividad", "#Imaginación"]
         },
         {
           "path": null,
-          "img": "../recursos/fotografia.jpg ",
+          "img": "./recursos/fotografia.jpg ",
           "title": "Fotografia",
           "description": "La carrera de fotografía brinda a sus estudiantes el conocimiento de técnicas y de herramientas para poder mostrar arte por medio de imágenes, su finalidad es transmitir ideas, sensaciones y emociones a través de ellas dándole un enfoque con el que se puedan contar historias o narrar ciertos hechos",
           "labels": ["#Arte", "#Emociones"]
         },
         {
           "path": null,
-          "img": "../recursos/pintura.jpg ",
+          "img": "./recursos/pintura.jpg ",
           "title": "Pintura",
           "description": "Esta carrera incluye el área de la ilustración y el diseño gráfico en dos dimensiones. Se trabaja para desarrollar aún más tanto la creatividad como también la publicidad, la identidad corporativa, e incluso la gestión de proyectos, además de la ejecución de campañas de un producto o servicio en especial.",
           "labels": ["#Arte", "#Creatividad"]
         },
         {
           "path": null,
-          "img": "../recursos/escultura.jpg ",
+          "img": "./recursos/escultura.jpg ",
           "title": "Escultura",
           "description": "Producir obras en distintos soportes y ámbitos profesionales en el campo de las artes visuales. Producir objetos, obras, producciones y eventos artísticos y comunicacionales originales especialmente en el campo de la escultura.",
           "labels": ["#Arte", "#Escultura", "#Talento"]
